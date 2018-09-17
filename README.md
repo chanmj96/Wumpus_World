@@ -1,5 +1,5 @@
 # Wumpus_World
-============
+==============
 
 Hunt the Wumpus is an early video game where the player navigates a cave in search for gold avoiding dangerous monsters (Wumpus) and bottomless pits. In modern studies of intelligent systems, this world is very often modeled using various programming languages where the computer tries to intelligently find gold without being killed. This is my implementation of a Wumpus World solution in C programming language.
 
@@ -17,7 +17,7 @@ First make sure you have C library and GCC compiler installed. If you're using U
 
 Now you can get the latest package, unpack it and compile the code using the following commands:
 
-    wget -c https://github.com/chanmj96/Wumpus-World/master.zip && unzip master.zip
+    wget -c https://github.com/chanmj96/Wumpus-World.git/master.zip && unzip master.zip
     cd wumpus-world-master/src/
     make
     chmod +x wumpus-world
