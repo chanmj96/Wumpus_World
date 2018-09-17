@@ -18,10 +18,10 @@ First make sure you have C library and GCC compiler installed. If you're using U
 Now you can get the latest package, unpack it and compile the code using the following commands:
 
     wget -c https://github.com/chanmj96/Wumpus_World/archive/master.zip && unzip master.zip
-    cd wumpus-world-master/src/
+    cd Wumpus_World-master
     make
-    chmod +x wumpus-world
-    ./wumpus-world
+    chmod +x Wumpus_World
+    ./MyAI
 
 You can play the game from anywhere in your system by creating a symlink. Run the following command in the src directory:
 
