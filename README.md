@@ -11,7 +11,7 @@ Requirements
 Instructions for a Linux based operating system
 ----------------------------------------------
 
-First make sure you have C++ library and G++ compiler installed. If you're using Ubuntu based Linux distribution you can use the following command to install required tools:
+First make sure you have the C++ library and G++ compiler installed. If you're using a Ubuntu based Linux distribution you can use the following command to install required tools:
 
     sudo apt-get install build-essential
 
@@ -22,3 +22,11 @@ Now you can get the latest package, unpack it and compile the code using the fol
     make
     cd bin
     ./MyAI
+
+
+Final Note:
+-----------
+In cases where gold is unreachable to the player, computer moves back to start avoiding loss of more points. This strategy maintains a high average score which you can view with the following command:
+    
+    Navigate to the Wumpus_World-master directory
+    make score
