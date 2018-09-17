@@ -1,7 +1,7 @@
 Wumpus_World
 ==============
 
-Hunt the Wumpus is an early video game where the player navigates a cave in search for gold avoiding dangerous monsters (Wumpus) and bottomless pits. In modern studies of intelligent systems, this world is very often modeled using various programming languages where the computer tries to intelligently find gold without being killed. This is my implementation of a Wumpus World solution in C++ programming language.
+Hunt the Wumpus is an early video game where the player navigates a cave in search for gold avoiding dangerous monsters (Wumpus) and bottomless pits. In modern studies of intelligent systems, this world is very often modeled using various programming languages where the computer tries to intelligently find gold without being killed. This is my implementation of a Wumpus World solution in the C++ programming language.
 
 Requirements
 ------------
