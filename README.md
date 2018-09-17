@@ -26,7 +26,7 @@ Now you can get the latest package, unpack it and compile the code using the fol
 
 Final Note
 ----------
-In cases where gold is unreachable to the player, computer moves back to the starting position avoiding loss of more points. This strategy maintains a high average score which you can see with the following commands:
+In cases where gold is unreachable to the player, computer will move back to the starting position to avoid loss of more points. This strategy maintains a high average score which you can see with the following commands:
     
     cd .. (should be the Wumpus_World-master directory)
     make score
