@@ -11,7 +11,7 @@ Requirements
 Instructions for a Linux based operating system
 ----------------------------------------------
 
-First make sure you have the C++ library and G++ compiler installed. If you're using a Ubuntu based Linux distribution you can use the following command to install required tools:
+First, make sure you have the C++ library and G++ compiler installed. If you're using a Ubuntu based Linux distribution you can use the following command to install required tools:
 
     sudo apt-get install build-essential
 
