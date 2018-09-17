@@ -11,7 +11,7 @@ Requirements
 Instructions for a Linux based operating system
 ----------------------------------------------
 
-First, make sure you have the C++ library and G++ compiler installed. If you're using a Ubuntu based Linux distribution you can use the following command to install required tools:
+First, make sure you have the C++ library and G++ compiler installed. If you're using an Ubuntu based Linux distribution you can use the following command to install required tools:
 
     sudo apt-get install build-essential
 
@@ -26,7 +26,7 @@ Now you can get the latest package, unpack it and compile the code using the fol
 
 Final Note
 ----------
-In cases where gold is unreachable to the player, computer moves back to starting position avoiding loss of more points. This strategy maintains a high average score which you can see with the following command:
+In cases where gold is unreachable to the player, computer moves back to the starting position avoiding loss of more points. This strategy maintains a high average score which you can see with the following commands:
     
-    Navigate to the Wumpus_World-master directory
+    cd .. (Wumpus_World-master directory)
     make score
