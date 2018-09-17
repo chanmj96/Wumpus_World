@@ -20,7 +20,7 @@ Now you can get the latest package, unpack it and compile the code using the fol
     wget -c https://github.com/chanmj96/Wumpus_World/archive/master.zip && unzip master.zip
     cd Wumpus_World-master
     make
-    chmod +x Wumpus_World
+    cd bin
     ./MyAI
 
 You can play the game from anywhere in your system by creating a symlink. Run the following command in the src directory:
