@@ -17,7 +17,7 @@ First make sure you have C library and GCC compiler installed. If you're using U
 
 Now you can get the latest package, unpack it and compile the code using the following commands:
 
-    wget -c https://github.com/chanmj96/Wumpus-World.git/master.zip && unzip master.zip
+    wget -c https://github.com/chanmj96/Wumpus_World/archive/master.zip && unzip master.zip
     cd wumpus-world-master/src/
     make
     chmod +x wumpus-world
